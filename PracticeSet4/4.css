@@ -1,0 +1,33 @@
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    border-width: 20px;
+}
+button{
+    background-color: orange;
+}
+#logo{
+    color: orange;
+    font-size: 25px;
+}
+a{
+    margin-right: 240px;
+    text-decoration: none;
+}
+#content{
+    height: 630px;
+}
+.contentBox{
+    margin: 25px;
+    padding: 25px;
+    width: 100px;
+    height: 100px;
+    border: 2px solid aqua;
+    display: inline-block;
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+h1{
+    width: 900px;
+    height: 100px;
+    background-color: aquamarine;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black;
+    padding: 150px;
+    text-align: center;
+}
+button{
+    display: block;
+}
+#box2{
+    visibility: hidden;
+}

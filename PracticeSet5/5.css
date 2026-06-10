@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url("puppy.jpg");
+    background-size: cover;
+    position: fixed;
+    top: 50px;
+    right: 0px;
+}

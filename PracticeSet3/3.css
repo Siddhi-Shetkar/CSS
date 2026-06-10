@@ -1,0 +1,17 @@
+#ques1{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border-radius: 50%;
+}
+#ques2{
+    color: white;
+    height: 30px;
+    width: none;
+    background-color: black;
+    border-width: 10px;
+    border-color: white;
+    border-style: solid;
+    padding-bottom: 40px;
+    font-size: 14px;
+}
